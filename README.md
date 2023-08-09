@@ -1,9 +1,9 @@
 ### Hi there, I'm Sparsh 👋
 
-- 🔭 I’m currently working on cable count, a small personal project I've been doing in my free time
-- 🌱 I’m currently learning C and Unix
-- 📫 How to reach me: sparsh[dot]nair[at]hotmail[dot]com
-- ⚡ Fun fact: I'm trilingual in English, Hindi, and Chinese (普通话)
+🔭 I’m currently working on cable count, a small personal project I've been doing in my free time
+🌱 I’m currently learning C and Unix
+📫 How to reach me: sparsh[dot]nair[at]hotmail[dot]com
+⚡ Fun fact: I'm trilingual in English, Hindi (+ a bit of bengali), and Chinese (普通话)
 
 <!--
 **Sparsh-N/Sparsh-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
