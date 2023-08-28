@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [cable count](https://github.com/Sparsh-N/cableCount)
 
-- ⚡ Fun fact **I'm trilingual in English, Hindi (+ a bit of bengali), and Chinese (普通话)**. I also enjoy ice skating and badminton.
+- ⚡ Fun fact: I'm trilingual in English, Hindi (+ a bit of bengali), and Mandarin **(普通话)**. I also enjoy ice skating, cycling, chess and badminton.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
