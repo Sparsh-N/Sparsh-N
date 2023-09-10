@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on [cable count](https://github.com/Sparsh-N/cableCount)
 
+- 🔭 I’m currently learning C and Go, in addition to DSA in Python
+
 - ⚡ Fun fact: I'm trilingual in English, Hindi (+ a bit of bengali), and Mandarin **(普通话)**. I also enjoy ice skating, cycling, chess and badminton.
 
 [![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparsh-N)](https://github.com/anuraghazra/github-readme-stats)
