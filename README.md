@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparsh-n&label=Profile%20views&color=0e75b6&style=flat" alt="sparsh-n" /> </p>
 
-- 🔭 I’m currently working on [cable count](https://github.com/Sparsh-N/cableCount)
+- 🔭 I’m currently working with [FURY](https://fury.gl) as a undergrad researcher.
 
 - 🔭 I’m currently learning C and Go, in addition to DSA in Python
 
