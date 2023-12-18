@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sparsh</h1>
-<h3 align="center">A student and aspiring backend developer from India, currently studying computer science at Indiana University. 
+<h3 align="center">A student and aspiring backend + graphics developer from India, currently studying computer science at Indiana University. 
   I've lived and studied in China, India, and the US.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparsh-n&label=Profile%20views&color=0e75b6&style=flat" alt="sparsh-n" /> </p>
 
-- 🔭 I’m currently working with [FURY](https://fury.gl) as a undergrad researcher.
+- 🔭 I’m currently working in the [FURY](https://fury.gl) team as a undergrad researcher. Currently working to incorporate pygfx and WebGPU with FURY.
 
-- 🔭 I’m currently learning C and Go, in addition to DSA in Python
+- 🔭 I’m currently learning C
 
 - ⚡ Fun fact: I'm trilingual in English, Hindi (+ a bit of bengali), and Mandarin **(普通话)**. I also enjoy ice skating, cycling, chess and badminton.
 
 [![Sparsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparsh-N)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Online profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sparshnair/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparshnair/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sparshn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sparshn" height="30" width="40" /></a>  
