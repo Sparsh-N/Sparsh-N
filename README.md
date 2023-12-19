@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working in the [FURY](https://fury.gl) team as a undergrad researcher. Currently working to incorporate pygfx and WebGPU with FURY.
 
-- 🔭 I’m currently learning C and WebGPU
+- 🔭 I’m currently learning C and the WebGPU API
 
 - ⚡ Fun fact: I'm trilingual in English, Hindi (+ a bit of bengali), and Mandarin **(普通话)**. I also enjoy ice skating, cycling, chess and badminton.
 
