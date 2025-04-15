@@ -1,3 +1,3 @@
 - Hi! I'm studying computer science at IU Bloomington.
 - Working to improve [FURY](https://fury.gl).
-- About me: I've lived/grew up/studied in China, India, and (now) the US. I'm trilingual in English, (broken) Hindi, and Mandarin **(普通话)**.
+- About me: I've lived/studied in China, India, and (now) the US. I'm trilingual in English, (broken) Hindi, and Mandarin **(普通话)**.
